@@ -65,16 +65,7 @@ We partner with startups, founders, and enterprises to bring powerful decentrali
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinklabs&show_icons=true&theme=tokyonight&hide_border=true&title_color=0f2862&icon_color=9e363a" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinklabs&theme=tokyonight&hide_border=true&ring=9e363a&fire=9e363a&currStreakLabel=0f2862" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinklabs&layout=compact&theme=tokyonight&hide_border=true&title_color=0f2862" height="150"/>
-</p>
 
 ---
 
