@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jinklabs/jinklabs/main/banner.gif" alt="Jink Labs Banner" />
+  <img src="https://i.ibb.co/yBpG6vmS/Chat-GPT-Image-Mar-28-2026-02-22-33-PM.png" alt="Jink Labs Banner" />
 </p>
 
-<h1 align="center">🚀 Jink Labs</h1>
+<h1 align="center">🚀 JinkLabs.xyz</h1>
 <h3 align="center">Empowering all Creators On Chain</h3>
 
 <p align="center">
@@ -100,15 +100,4 @@ We partner with startups, founders, and enterprises to bring powerful decentrali
 Have an idea or need a Web3 development partner?
 
 👉 Reach out and let’s bring it on-chain.
-
----
-
-## 🎨 Branding
-
-- Primary: `#0f2862`  
-- Secondary: `#9e363a`  
-- Accent: `#091f36`, `#4f5f76`  
-- Style: Neon / Web3 / Futuristic  
-
----
-
+https://jinklabs.xyz
