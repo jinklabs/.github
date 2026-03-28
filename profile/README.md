@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Jink Labs Banner" />
+  <img src="https://i.ibb.co/yBpG6vmS/Chat-GPT-Image-Mar-28-2026-02-22-33-PM.png" alt="Jink Labs Banner" />
 </p>
 
 <h1 align="center">🚀 Jink Labs</h1>
